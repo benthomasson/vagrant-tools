@@ -2,6 +2,7 @@ galaxy_info:
   author: Ben Thomasson
   description: Tools for working with vagrant
   company:
+  owner: Ben Thomasson
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
